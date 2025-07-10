@@ -1,4 +1,4 @@
-## 🛠️ Технический стек
+## 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![vLLM](https://img.shields.io/badge/-vLLM-FF6B6B?style=flat-square&logo=github&logoColor=white)
@@ -8,3 +8,6 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![Triton](https://img.shields.io/badge/-NVIDIA%20Triton-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+## 📈 GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
