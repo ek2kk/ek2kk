@@ -10,4 +10,4 @@
 ![Triton](https://img.shields.io/badge/-NVIDIA%20Triton-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ## 📈 GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ek2kk&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ek2kk&show_icons=true&theme=github_dark)
