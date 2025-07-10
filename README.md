@@ -1,3 +1,9 @@
+### Egor Kuznetsov, Data Scientist & ML Engineer
+
+Currently working at [mamba](https://wamba.com/en) and studying for a master's degree in ML at [Central University](https://centraluniversity.ru/)
+
+[MISIS](https://misis.ru/) bachelor in CS, '24
+
 ## 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
