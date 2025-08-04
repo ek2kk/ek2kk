@@ -14,8 +14,7 @@ Currently working at [mamba](https://wamba.com/en) and studying for a master's d
 ![](https://github-profile-trophy.vercel.app/?username=ek2kk&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📈 GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=ek2kk&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ek2kk&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ek2kk&theme=onedark&hide_border=true&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=ek2kk&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ek2kk&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
