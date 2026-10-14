@@ -2,9 +2,14 @@
 
 **AI Engineer · LLM Products** · [Mamba](https://wamba.com/en)
 
-I build products powered by LLMs, including RAG systems with hybrid search, from backend services and model integration to production deployment.
+I build and deploy LLM-powered products: RAG systems, backend services, and inference infrastructure.
 
-[LinkedIn](https://linkedin.com/in/ek2kk) · [Email](mailto:ek@2kkk.ru) · [Stack Overflow](https://stackoverflow.com/users/25849593) · [Instagram](https://instagram.com/ek2kk)
+[LinkedIn](https://linkedin.com/in/ek2kk) · [Email](mailto:ek@2kkk.ru)
+
+## Selected projects
+
+- **[CV RAG backend](https://github.com/ek2kk/cv-backend)** — FastAPI service for answering questions about resumes using local embeddings and FAISS retrieval.
+- **[SW Factory](https://github.com/ek2kk/swfactory)** — Local Kanban app for coordinating coding agents through specification, implementation, and code review in isolated Git worktrees.
 
 ## Tech stack
 
@@ -43,6 +48,5 @@ I build products powered by LLMs, including RAG systems with hybrid search, from
 
 ## Education
 
-- **[Central University](https://cu.ru/)** — Master's degree in Machine Learning, 2026
-- **[HSE University](https://www.hse.ru/)** — Master's degree in Artificial Intelligence, 2026
+- **[Central University](https://cu.ru/) & [HSE University](https://www.hse.ru/)** — Joint master's program in Machine Learning and Artificial Intelligence, 2026
 - **[MISIS](https://misis.ru/)** — Bachelor's degree in Computer Science, 2024
