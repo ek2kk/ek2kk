@@ -43,6 +43,6 @@ I build products powered by LLMs, including RAG systems with hybrid search, from
 
 ## Education
 
-- **Central University** — Master's degree in Machine Learning, 2026
-- **HSE University** — Master's degree in Artificial Intelligence, 2026
-- **MISIS** — Bachelor's degree in Computer Science, 2024
+- **[Central University](https://cu.ru/)** — Master's degree in Machine Learning, 2026
+- **[HSE University](https://www.hse.ru/)** — Master's degree in Artificial Intelligence, 2026
+- **[MISIS](https://misis.ru/)** — Bachelor's degree in Computer Science, 2024
