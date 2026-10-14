@@ -1,29 +1,29 @@
 # Egor Kuznetsov
 
-**Data Scientist & ML Engineer** · [Mamba](https://wamba.com/en)
+**AI Engineer · LLM Products** · [Mamba](https://wamba.com/en)
 
-[LinkedIn](https://linkedin.com/in/ek2kk) · [Email](mailto:ek@2kkk.ru) · [Stack Overflow](https://stackoverflow.com/users/25849593) · [Instagram](https://instagram.com/ek2kk) · [Reddit](https://reddit.com/user/ek2kkk)
+I build products powered by LLMs, from backend services and model integration to production deployment.
+
+[LinkedIn](https://linkedin.com/in/ek2kk) · [Email](mailto:ek@2kkk.ru) · [Stack Overflow](https://stackoverflow.com/users/25849593) · [Instagram](https://instagram.com/ek2kk)
 
 ## Tech stack
 
-**Machine learning**
+**Backend & product development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-**Inference & serving**
+**LLM serving & observability**
 
 ![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge)
-![NVIDIA Triton](https://img.shields.io/badge/NVIDIA_Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-6366F1?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-1E293B?style=for-the-badge)
 
-**Infrastructure & data**
+**Infrastructure & monitoring**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
